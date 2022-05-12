@@ -1,6 +1,6 @@
 # odin-recipes
 
-**Odin Recipes** constitutes my first project from *The Odin Project* curriculum! It is also the first true project that I've pushed onto GitHub.
+**Odin Recipes** constitutes my first project from *The Odin Project* curriculum! It is also the first true project that I've pushed onto GitHub. :smile:
 
 I believe that a little celebration is in order here... if I may be so indulgent.
 
