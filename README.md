@@ -13,3 +13,5 @@ It is a simple website made entirely from HTML5, containing a home page with an 
 There was one part that I free-styled, which was not part of the original assignment requirements, and that was adding a "Go Back Home" link to each of the three recipe pages. That took some time for me to figure out, as getting it to display at all on the webpage was initially, weirdly difficult, but after refreshing and playing with the link around ten more times and then eventually deciding to change the link from the absolute form to the relative (to facilitate its translation should I push this onto the Web), I am satisfied with the result.
 
 I am much more confident with using basic HTML, VSC, and the CLI after embarking on this project and am really happy with the end result. I look forward to building and pushing more projects in the future, hopefully many more! :relaxed:
+
+You can view the project through [here](https://chiisquare.github.io/odin-recipes/).
