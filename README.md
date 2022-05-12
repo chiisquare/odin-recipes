@@ -14,4 +14,4 @@ There was one part that I free-styled, which was not part of the original assign
 
 I am much more confident with using basic HTML, VSC, and the CLI after embarking on this project and am really happy with the end result. I look forward to building and pushing more projects in the future, hopefully many more! :relaxed:
 
-You can view the project through [here](https://chiisquare.github.io/odin-recipes/).
+You can view the project [here](https://chiisquare.github.io/odin-recipes/).
