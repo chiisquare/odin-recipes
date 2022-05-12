@@ -4,7 +4,7 @@
 
 I believe that a little celebration is in order here... if I may be so indulgent.
 
-![An adorable GIF of a baby penguin, which waddles a few steps in front of its parent before turning towards the viewer and raising both of its little arms.](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg.ibxk.com.br%2F2014%2F05%2F24%2F24105746508033.gif&f=1&nofb=1)
+![An adorable GIF of a baby penguin, which waddles a few steps in front of its parent before turning towards the viewer and raising both of its little arms.](https://img.ibxk.com.br/2014/05/24/24105746508033.gif)
 
 It is a simple website that was made entirely through HTML5 and contains a home page that with an unordered list of three links to three separate recipe pages that I've referenced online. I spent several pomodoros (and skipped breaks) to complete this project as I became invested in writing the descriptions for each dish. There were several typos I had to correct for accuracy as well as continuity's sake, but I strove to make my commits as meaningful yet atomic as possible. As for writing multi-line commit messages... I have yet to attempt writing that, be it in VSC or the CLI, so I expect to YouTube the topic at a later time. :penguin:
 
