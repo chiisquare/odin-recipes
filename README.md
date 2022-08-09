@@ -1,6 +1,8 @@
 # odin-recipes
 
-**Odin Recipes** constitutes my first project from *The Odin Project* curriculum! It is also the first true project that I've pushed onto GitHub. :smile:
+**May 2022**
+
+**Odin Recipes** constitutes my first project from *The Odin Project* curriculum! It is also the first true project that I've ever pushed onto GitHub. :smile:
 
 I believe that a little celebration is in order here... if I may be so indulgent.
 
@@ -15,3 +17,5 @@ There was one part that I free-styled, which was not part of the original assign
 I am much more confident with using basic HTML, VSC, and the CLI after embarking on this project and am really happy with the end result. I look forward to building and pushing more projects in the future, hopefully many more! :relaxed:
 
 You can view the project [here](https://chiisquare.github.io/odin-recipes/).
+
+---
